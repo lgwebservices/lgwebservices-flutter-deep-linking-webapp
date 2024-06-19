@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.webservices.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["0C:22:3E:63:8C:EB:99:47:89:CD:36:A2:61:8B:7C:A0:68:8A:F8:62:06:8A:0B:0F:C2:94:79:F9:9B:43:5F:5C"]
+    }
+}]
